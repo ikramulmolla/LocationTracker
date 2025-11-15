@@ -1,6 +1,6 @@
 # LocationTracker
 
-It helps to find the exact location of a user (with their consent) by sending a link.  
+It helps to find the exact location of a user (with their consent) by sending a link using python.  
 
 **Author:** WEBXPLOIT  
 
