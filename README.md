@@ -46,7 +46,8 @@ This makes it accessible from any Command Prompt.
 4. Open a new Command Prompt and verify: cloudflared --version
 
 ## Run the script:
+```bash
 python location.py
-
+```
 
 
